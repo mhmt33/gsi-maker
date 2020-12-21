@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-0g-08-docs.googleusercontent.com/docs/securesc/dpmju4mujo2tseec49abmnudb3ndvvme/dc2ip1ch006b013im0j7cljkco947o8j/1608577425000/17354996532301258364/17181644274002421746/1QO3NkxFvVBqhRFdjAVcRq_W5uktwSDIA?e=download&authuser=0 
+  ROM_URL: https://doc-04-bs-docs.googleusercontent.com/docs/securesc/fo1ns5pg0p6vbmg58bs41a7b8a8928gj/ofs3m38p2dd00kkr6o4234lim52qfkvm/1608577800000/17354996532301258364/03294475992275034864Z/1QO3NkxFvVBqhRFdjAVcRq_W5uktwSDIA?e=download&nonce=03ss5um6l29j8&user=03294475992275034864Z&hash=io7aj2gaijcscdboeq9891u9btudpbfl
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
