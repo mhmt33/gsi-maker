@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-04-bs-docs.googleusercontent.com/docs/securesc/fo1ns5pg0p6vbmg58bs41a7b8a8928gj/ofs3m38p2dd00kkr6o4234lim52qfkvm/1608577800000/17354996532301258364/03294475992275034864Z/1QO3NkxFvVBqhRFdjAVcRq_W5uktwSDIA?e=download&nonce=03ss5um6l29j8&user=03294475992275034864Z&hash=io7aj2gaijcscdboeq9891u9btudpbfl
-  ROM_NAME: MIUI
+  ROM_URL: https://get.resurrectionremix.com/ten/instantnoodlep/RROS-Q-8.6.5-20201212-instantnoodlep-Official.zip
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI 
+  ZIP_NAME: Generic 
 jobs:
   build:
     runs-on: ubuntu-latest
